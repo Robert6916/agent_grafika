@@ -232,3 +232,20 @@ body {
 	top:100px;
 	
 }
+
+#par10 {
+	position: relative;
+	top: 180px;
+	padding-bottom: 50px;
+	left: -20px;
+	float: center;
+	width: 100%;
+	color: #000;
+	font-family: "Spectral SC", serif;
+    font-style: normal;
+	text-align:center;
+	font-size: 1.3em;
+	font-weight: 100;
+	letter-spacing: 1.5px;
+	line-height: 29px;
+}
