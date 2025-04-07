@@ -57,6 +57,22 @@ a {
 	text-align: center;
 }
 
+#page2 {
+	width: 100%;
+	height: 60px;
+	text-align: center;
+	border-bottom: 4px solid silver;
+	background: #2b4873 no-repeat center top;
+	background-size: 100%;
+	color: #fff;
+	font-family: "Spectral SC", serif;
+    font-style: normal;
+	letter-spacing: 1px;
+	line-height: 20px; /*чтобы текст в шапке попал ровно в центр, можно указать line-height такого же значения, как height блока*/;
+	margin-bottom: 5px;
+		float: left;
+}
+
 img {
 		box-shadow: 2px 2px 5px #000;
 
